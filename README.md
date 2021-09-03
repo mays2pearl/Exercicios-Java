@@ -1,2 +1,2 @@
 # Exercicios-Java
-Exercicios proposto no BootCamp Generation Brasil
+Exercicios propostos no BootCamp Generation Brasil
